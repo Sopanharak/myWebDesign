@@ -35,21 +35,21 @@
 .container4{
     padding: 10px;
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
 }
 
 .container5{
     padding: 10px;
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
 }
 
 .container6{
     padding: 10px;
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -144,7 +144,7 @@
     float: right;
     width: 30px;
     height: 30px;
-    margin-left: 200px;
+    margin-right: 10px;
 }
 
 .text{
