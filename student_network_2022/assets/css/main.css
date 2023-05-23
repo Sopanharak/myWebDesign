@@ -19,36 +19,32 @@
 }
 
 .container2{
-    padding: 5px;
     display: flex;
+    padding: 5px;
     justify-content: space-between;
     align-items: center;
 }
 
 .container3{
     padding: 10px;
-    display: flex;
     justify-content: flex-start;
     align-items: center;
 }
 
 .container4{
     padding: 10px;
-    display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .container5{
     padding: 10px;
-    display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .container6{
     padding: 10px;
-    display: flex;
     justify-content: space-between;
     align-items: center;
 }
@@ -155,6 +151,7 @@
 .reacts{
     padding: 5px;
     display: flex;
+    justify-content: space-between;
     align-items: center;
 }
 
